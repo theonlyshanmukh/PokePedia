@@ -2,6 +2,10 @@
 
 This project aims to create a comprehensive Pokédex, providing detailed information about all Pokémon.
 
+## Project Screeshot
+
+![Project icon](../assets/icon.svg)
+
 ## Project Description
 
 This PokéPedia offers a user-friendly interface to explore Pokémon data, including:
@@ -17,13 +21,13 @@ This PokéPedia offers a user-friendly interface to explore Pokémon data, inclu
 
 *   [List technologies used here. Examples:]
     *   Frontend: HTML, CSS, JavaScript.
-    *   API: PokéAPI (https://pokeapi.co/)
+    *   API: [PokéAPI](https://pokeapi.co/)
 
 ## Installation 
 
 ```bash
 # Clone the repository
-git clone [invalid URL removed]
+git clone https://github.com/theonlyshanmukh/PokePedia
 
 # Navigate to the project directory
-cd pokedex-project
+run index.html
