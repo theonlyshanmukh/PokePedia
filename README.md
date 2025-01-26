@@ -4,7 +4,7 @@ This project aims to create a comprehensive Pokédex, providing detailed informa
 
 ## Project Screeshot
 
-![Screenshot](../src/screenshot.jpg)
+![Screenshot](src/screenshot.jpg)
 
 ## Project Description
 
