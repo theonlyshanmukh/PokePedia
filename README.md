@@ -1,6 +1,6 @@
 # PokéPedia
 
-This project aims to create a comprehensive Pokédex, providing detailed information about all Pokémon.
+This project aims to create a comprehensive Pokémon Encyclopedia, providing detailed information about all Pokémon.
 
 ## Project Screeshot
 
